@@ -1,6 +1,6 @@
 # Cruncher
 Welcome to the Cruncher iOS app project page! 👋 I post updates about my Cruncher code, features, and research on this repo. 
-> If you're interested in contributing to this project, see [here]().
+> If you're interested in contributing to this project, see [here](https://github.com/evehling/cruncher-public#where-did-your-source-code-go).
 
 ## About
 🗯 Cruncher is an iOS application that helps you make the most of your free time by identifying free blocks in your schedule, showing you how you spend your time, and helping you schedule tasks and activities at the best possible time. 
@@ -10,7 +10,7 @@ Welcome to the Cruncher iOS app project page! 👋 I post updates about my Crunc
 🧠 Cruncher is designed with neurodiverse individuals particularly in mind by a devloper with ADHD. For more details on how Crunch is designed to work with all different types of brains, see the Wiki.
 
 ## Project Status
-I've divided this project into several stages and have created a milestone for each under *Issues* with more specific details.
+I've divided this project into several stages and have created a milestone for each under [Issues](https://github.com/evehling/cruncher-public/milestones) with more specific details.
 | Stage  | Progress |
 | ------------- | ------------- |
 | 👩‍🔬 Ideation & Research  |  ![90%](https://progress-bar.dev/90) |
@@ -22,9 +22,9 @@ I've divided this project into several stages and have created a milestone for e
 | 📲 App Store Launch  | ![0%](https://progress-bar.dev/0)  |
 
 ## Features
-📖 See the [Wiki]() for more in-depth descriptions of features, mock-ups, and research that supports the technical decisions I'm making. 
+📖 See the [Wiki](https://github.com/evehling/cruncher-public/wiki) for more in-depth descriptions of features, mock-ups, and research that supports the technical decisions I'm making. 
 
-💡 Please feel free to **suggest edits or new features** by creating a [new Issue]() or by commenting on an existing Issue!
+💡 Please feel free to **suggest edits or new features** by creating a [new Issue](https://github.com/evehling/cruncher-public/issues/new) or by commenting on an existing Issue!
 
 ## FAQ
 ### Why are you working on this?
