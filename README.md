@@ -10,7 +10,7 @@ Welcome to the Cruncher iOS app project page! 👋 I post updates about my Crunc
 🧠 Cruncher is designed with neurodiverse individuals particularly in mind by a devloper with ADHD. For more details on how Crunch is designed to work with all different types of brains, see the Wiki.
 
 ## Project Status
-I've divided this project into several stages and have created a milestone for each under [Issues](https://github.com/evehling/cruncher-public/milestones) with more specific details.
+I've divided this project into several stages:
 | Stage  | Progress |
 | ------------- | ------------- |
 | 👩‍🔬 Ideation & Research  |  ![90%](https://progress-bar.dev/90) |
