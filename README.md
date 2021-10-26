@@ -14,10 +14,10 @@ I've divided this project into several stages and have created a milestone for e
 | Stage  | Progress |
 | ------------- | ------------- |
 | 👩‍🔬 Ideation & Research  |  ![90%](https://progress-bar.dev/90) |
-| 💾 Database Design  | ![80%](https://progress-bar.dev/80)  |
-| 👩‍💻 Core Backend  |  ![20%](https://progress-bar.dev/20) |
+| 💾 Database Design  | ![95%](https://progress-bar.dev/80)  |
+| 👩‍💻 Core Backend  |  ![30%](https://progress-bar.dev/20) |
 | ⏱ Scheduler  | ![5%](https://progress-bar.dev/5)  |
-| 📱 UI/UX Code |  ![10%](https://progress-bar.dev/10) |
+| 📱 UI/UX Code |  ![50%](https://progress-bar.dev/10) |
 | 🤳 User Testing  | ![0%](https://progress-bar.dev/0)  |
 | 📲 App Store Launch  | ![0%](https://progress-bar.dev/0)  |
 
