@@ -13,12 +13,12 @@ Welcome to the Cruncher iOS app project page! 👋 I post updates about my Crunc
 I've divided this project into several stages:
 | Stage  | Progress |
 | ------------- | ------------- |
-| 👩‍🔬 Ideation & Research  |  ![90%](https://progress-bar.dev/90) |
-| 💾 Database Design  | ![98%](https://progress-bar.dev/80)  |
-| 👩‍💻 Core Backend  |  ![41%](https://progress-bar.dev/20) |
+| 👩‍🔬 Ideation & Research  |  ![97%](https://progress-bar.dev/97) |
+| 💾 Database Design  | ![98%](https://progress-bar.dev/98)  |
+| 👩‍💻 Core Backend  |  ![41%](https://progress-bar.dev/41) |
 | ⏱ Scheduler  | ![5%](https://progress-bar.dev/5)  |
-| 📱 UI/UX Code |  ![43%](https://progress-bar.dev/10) |
-| 🤳 User Testing  | ![0%](https://progress-bar.dev/0)  |
+| 📱 UI/UX Code |  ![62%](https://progress-bar.dev/62) |
+| 🤳 User Testing  | ![3%](https://progress-bar.dev/3)  |
 | 📲 App Store Launch  | ![0%](https://progress-bar.dev/0)  |
 
 ## Features
